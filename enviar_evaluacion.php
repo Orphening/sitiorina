@@ -23,8 +23,8 @@
 	$mail->FromName = "Nombre REmitente";            //Nombre de Remitente
 	//Definir destinatario(s)
 	$mail->AddAddress("correo@correo.cl",$nombre);
-	//$mail->AddCC('matias.evert@gmail.com', 'ME');  //Copia
-	//$mail->AddBCC('matias.evert@gmail.com', 'ME'); //Copia Oculta
+	//$mail->AddCC('correo@gmail.com', 'ME');  //Copia
+	//$mail->AddBCC('correo@gmail.com', 'ME'); //Copia Oculta
 	
 	//Define los datos técnicos del mensaje
 	$mail->IsHTML(true);  //Define que un email sea enviado como HTML
