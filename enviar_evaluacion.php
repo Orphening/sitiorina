@@ -12,17 +12,17 @@
 	$mail = new PHPMailer();	
 	//Defino los datos del servidor y de conexión
 	$mail->IsSMTP();
-	$mail->Host     = "mail.rinaruiz.cl";           //Servidor SMTP
-	$mail->SMTPAuth = true;						  //Autenticación
+	$mail->Host     = "mail.dominio.cl";            //Servidor SMTP
+	$mail->SMTPAuth = true;				//Autenticación
 	$mail->SMTPSecure = "tls";
 	$mail->Port     = 587;
-	$mail->Username = "info@rinaruiz.cl";         //Usuario
-	$mail->Password = "rina2016";				  //Contraseña
+	$mail->Username = "correo@correo.cl";         	//Usuario
+	$mail->Password = "***********";		//Contraseña
 	//Definir Remitente
-	$mail->From     = "info@rinaruiz.cl";   		//Correo Remitente
-	$mail->FromName = "Rina Ruiz";            //Nombre de Remitente
+	$mail->From     = "correo@correo.cl";   	 //Correo Remitente
+	$mail->FromName = "Nombre REmitente";            //Nombre de Remitente
 	//Definir destinatario(s)
-	$mail->AddAddress("info@rinaruiz.cl",$nombre);
+	$mail->AddAddress("correo@correo.cl",$nombre);
 	//$mail->AddCC('matias.evert@gmail.com', 'ME');  //Copia
 	//$mail->AddBCC('matias.evert@gmail.com', 'ME'); //Copia Oculta
 	
