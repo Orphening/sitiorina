@@ -1,0 +1,1102 @@
+    .menu{
+        
+        margin: 0px 105px 0px 105px;
+        width: auto;
+        text-align: center;
+        height: 15px;
+        z-index: 99999999999;
+        border: none;
+        background: #DBD500;
+        background-image: #D15555;
+    }
+
+    .linea-facial{
+        
+        margin: 0px 0px 10px 0px;
+        width: auto;
+        text-align: center;
+        height: 10px;
+        z-index: 99999999999;
+        border: none;
+        background: #D15555;
+        background-image: #D15555;
+    }
+
+    .linea-corporal{
+        
+        margin: 0px 0px 10px 0px;
+        width: auto;
+        text-align: center;
+        height: 10px;
+        z-index: 99999999999;
+        border: none;
+        background: #E78E52;
+        background-image: #D15555;
+    }
+
+    #logo>img{
+        
+        height: 80px;
+        margin-top: 30px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .menu1{
+        background-color: #D15555!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .menu1:hover{
+        background-color: #D15555!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .menu2{
+        background-color: #E78E52!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .menu3{
+        background-color: #848880!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .menu4{
+        background-color: #DBD500!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 140px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .menu5{
+        background-color: #87A19A!important;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+    }
+    
+    #carrusel{
+    	margin-top: 140px;
+    }
+
+    #carrusel img{
+    	height: 550px !important;
+    }
+    
+    #facial> img {
+    	margin-top: 80px;
+    	margin-bottom: 60px;
+    	height: 100px !important;
+    	
+    }
+
+    #corporal> img {
+        margin-top: 80px;
+        margin-bottom: 60px;
+        height: 100px !important;
+        
+    }
+    
+    #icon1{
+    	width: 250px;
+    	height: 250px;
+    }
+    
+    #icon2{
+    	width: 250px;
+    	height: 250px;
+    }
+    
+    #icon3{
+    	width: 250px;
+    	height: 250px;
+    }
+    
+    #sec-quie-1{
+    	background-color: #848880;
+    	height: 365px;
+
+    }
+    
+    #sec-quie-1 div{
+    	color: #FFFFFF;
+    }
+    
+    #sec-quie-2{
+    	background-color: #fff;
+    	height: 370px;
+		margin-right: none;
+    }
+	
+	#sec-quienes-somos{
+		height: auto;
+	}
+	
+	.navbar-default .navbar-nav>li>.menu1:hover{
+		background-color: #D15555!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+	}
+	
+	.navbar-default .navbar-nav>li>.menu2:hover{
+		background-color: #E78E52!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+	}
+	
+	.navbar-default .navbar-nav>li>.menu3:hover{
+		background-color: #848880!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+	}
+	
+	.navbar-default .navbar-nav>li>.menu4:hover{
+		background-color: #DBD500!important;
+        margin-right: 7px;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 140px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+	}
+	
+	.navbar-default .navbar-nav>li>.menu5:hover{
+		background-color: #87A19A!important;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: bolder;
+        width: 120px;
+        height: 90px;
+        text-align: center;
+        vertical-align: middle;
+	}
+	
+    #vermas{
+        -webkit-border-radius: 60px;
+        -moz-border-radius: 60px;
+        border-radius: 60px;
+        background-color:#848880; 
+        color: #fff; 
+        border:none; 
+        height:40px;
+        width:120px;
+        margin-top: 10px;
+    }
+
+    #footer{
+    	background-color:#848880; 
+    	width:1140px; 
+    	margin-top:60px;
+    	padding: 0px;
+    }
+
+	/* Estilo de Tablet*/
+    @media (min-width: 767px){
+        @media (max-width: 1023px){
+            div.navbar-toggle{
+				display: none;
+			}
+			
+			.navbar-collapse.collapse {
+                display: block !important;
+            }
+
+            .navbar-nav>li, .navbar-nav {
+                float: left !important;
+            }
+
+            .navbar-nav.navbar-right:last-child {
+                margin-right: -15px !important;
+            }
+
+            .navbar-right {
+                float: right!important;
+            }
+
+            #logo>img{
+                height: 48px;
+                margin: 50px 0px 10px 10px;
+            }
+
+            .relleno{
+                height: 60px !important;
+            }
+			
+			#fotos_quienes_somos{
+				padding: 30px 0px 30px 0px !important;
+			}
+
+            #carrusel img{
+                height: 400px !important;
+                width: 100%;
+                margin-left: 0px !important;
+            }
+			
+			#sec-quie-2{
+				display: none;
+			}
+
+            .menu{       
+                margin: 0px 0px 0px 0px;
+                width: auto !important;
+                text-align: center;
+                height: 10px;
+                z-index: 99999999999;
+                border: none;
+                background: #DBD500;
+            }
+
+            .menu1{
+                background-color: #D15555!important;
+                color: #ffffff !important;
+                font-size: 13px;
+                font-weight: bolder;
+                width: 90px;
+                height: 80px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .menu2{
+                background-color: #E78E52!important;
+                color: #ffffff !important;
+                font-size: 13px;
+                font-weight: bolder;
+                width: 90px;
+                height: 80px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .menu3{
+                background-color: #848880!important;
+                color: #ffffff !important;
+                font-size: 13px;
+                font-weight: bolder;
+                width: 90px;
+                height: 80px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .menu4{
+                background-color: #DBD500!important;
+                color: #ffffff !important;
+                font-size: 13px;
+                font-weight: bolder;
+                width: 100px;
+                height: 80px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .menu5{
+                background-color: #87A19A!important;
+                color: #ffffff !important;
+                font-size: 13px;
+                font-weight: bolder;
+                width: 80px;
+                height: 80px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            .navbar-nav>li>a{
+                line-height: 15px !important;
+            }                
+
+            .nav>li>a{
+                padding: 25px 0px !important;
+            }
+			
+			#footer{
+                width: 100% !important;
+            }
+			
+			#sec-quie-1{
+				margin: 0px 0px 0px 0px !important;
+				width: 100% !important;
+			}
+			
+			#icon1>h1{
+				font-size: 21pt !important;
+				font-weight: bold;
+			}
+			
+			#icon2>h1{
+				font-size: 21pt !important;
+				font-weight: bold; 
+			}
+			
+			#icon3>h1{
+				font-size: 21pt !important;
+				font-weight: bold; 
+			}
+			
+			.col-xs-12.col-md-4{
+				width: 33%;
+				margin-bottom: 40px;
+			}
+			
+			div.col-xs-12.col-md-4>img{
+				width: 210px !important;
+				height: 210px !important;
+			}
+			
+			
+        }
+    }
+	/* FIN Estilo de Tablet*/
+
+
+	@media (min-width: 426px)and (orientation: landscape){
+    	@media (max-width: 730px){
+    		#logo>img{
+                height: 35px;
+                margin: -10px 0px 10px 10px;
+        	}
+
+            #carrusel img{
+                height: 300px !important;
+                width: 100%;
+                margin-left: 0px !important;
+            }
+
+            .menu{       
+                margin: 0px 0px 0px 0px;
+                width: auto !important;
+                text-align: center;
+                height: 5px;
+                z-index: 99999999999;
+                border: none;
+                background: #DBD500;
+            }
+
+            #quienes_somos{
+                width: 100%;
+            }
+
+            #fotos_quienes_somos{
+                display: none;
+            }
+			
+			#subtitutlo>b{
+				font-size: 28pt !important;
+			}
+			
+            #sec-quie-2{
+                display: none;
+            }
+
+            #sec-quie-1{
+                height: 300px !important;
+            }
+
+            #sec-quie-1>div{
+                margin: 10px 50px 0px 40px !important;
+                width: auto;
+            }
+
+            #titulo{
+                width: 100% !important;
+            }
+
+            #vermas{
+                -webkit-border-radius: 60px;
+                -moz-border-radius: 60px;
+                border-radius: 60px;
+                background-color:#848880; 
+                color: #fff; 
+                border:none; 
+                height:40px;
+                width:120px;
+                margin-bottom: 30px;
+            }
+
+            .navbar-collapse{
+                padding: 0px !important;
+                width: auto !important;
+            }
+
+            .col-xs-12{
+                width: auto !important;
+                float: none !important;
+                padding-top: 10px;
+            }
+
+            .relleno{
+                display: none;
+            }
+
+            #corporal >img{
+                margin-top: 0px !important;
+                padding-top: 0px;
+            }
+
+            .navbar-header{
+                width: 100% !important;
+            }
+
+            .container{
+                padding-right: 0px !important;
+                padding-left: 0px !important;
+
+            }
+
+            #footer{
+                width: 100% !important;
+            }
+
+            footer>div.row{
+                margin-left:-30px;
+            }
+
+            .menu1{
+                background-color: #D15555!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .menu2{
+                background-color: #E78E52!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            .menu3{
+                background-color: #848880!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            .menu4{
+                background-color: #DBD500!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            .menu5{
+                background-color: #87A19A!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .navbar-default .navbar-nav>li>.menu1:hover{
+                background-color: #D15555!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+        
+            .navbar-default .navbar-nav>li>.menu2:hover{
+                background-color: #E78E52!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            
+            .navbar-default .navbar-nav>li>.menu3:hover{
+                background-color: #848880!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            
+            .navbar-default .navbar-nav>li>.menu4:hover{
+                background-color: #DBD500!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            
+            .navbar-default .navbar-nav>li>.menu5:hover{
+                background-color: #87A19A!important;
+                color: #ffffff !important;
+                font-size: 16px;
+                font-weight: bolder;
+                width: auto;
+                height: 40px;
+                text-align: center;
+                vertical-align: middle;
+            }
+        }
+    }
+
+
+	@media (min-width: 380px){
+	    @media (max-width: 425px){
+	        
+	        #logo>img{
+	            height: 40px;   
+	            margin: -10px 0px 10px 10px;    
+	        }
+	
+	        #carrusel{
+	        	margin-top: 0px;
+	        }
+	
+	        #carrusel img{
+	            height: 250px !important;
+	            width: 100%;
+	            margin-left: 0px;
+	            /*width: 1140px;*/
+	        }
+	
+	        .menu{
+	        
+	            margin: 0px 0px 0px 0px;
+	            width: auto;
+	            text-align: center;
+	            height: 15px;
+	            z-index: 99999999999;
+	            border: none;
+	            background: #DBD500;
+	        }
+	
+	        #quienes_somos{
+	            width: 100%;
+	        }
+	
+	        #fotos_quienes_somos{
+	            display: none;
+	        }
+	
+	        #sec-quie-2{
+	            display: none;
+	        }
+	
+	        #sec-quie-1{
+	            height: 410px;
+	        }
+	
+	        #sec-quie-1>div{
+	            margin: 10px 30px 0px 20px !important;
+	            width: auto;
+	        }
+	
+			#sec-quie-1>div>p>b{
+	            font-size: 28pt !important;
+	        }
+			
+	        #titulo{
+	            width: 100% !important;
+	        }
+	
+	        #vermas{
+	            -webkit-border-radius: 60px;
+	            -moz-border-radius: 60px;
+	            border-radius: 60px;
+	            background-color:#848880; 
+	            color: #fff; 
+	            border:none; 
+	            height:40px;
+	            width:120px;
+	            margin-bottom: 30px;
+	        }
+	
+	        #corporal >img{
+	            margin-top: 0px !important;
+	            padding-top: 0px;
+	        }
+	
+	        .navbar-header{
+	            width: 100% !important;
+	        }
+	
+	        .container{
+	            padding-right: 0px !important;
+	            padding-left: 0px !important;
+	
+	        }
+	
+	        #footer{
+	            width: 100% !important;
+	        }
+	
+	        footer>div.row{
+	            margin-left:-30px;
+	        }
+	
+	        .menu{
+	        
+	            margin-top: 0px !important;
+	            padding: 0px;
+	            width: auto !important;
+	            text-align: center;
+	            height: 15px;
+	            z-index: 99999999999;
+	            border: none;
+	            background: #DBD500;
+	            background-image: #D15555;
+	        }
+	
+	        .relleno{
+	            display: none;
+	        }
+	
+	        .menu1{
+	        background-color: #D15555!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	
+	        .menu2{
+	        background-color: #E78E52!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	        .menu3{
+	        background-color: #848880!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	        .menu4{
+	        background-color: #DBD500!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	        .menu5{
+	        background-color: #87A19A!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	
+	        .navbar-default .navbar-nav>li>.menu1:hover{
+	        background-color: #D15555!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu2:hover{
+		        background-color: #E78E52!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu3:hover{
+		        background-color: #848880!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu4:hover{
+		        background-color: #DBD500!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu5:hover{
+		        background-color: #87A19A!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+	
+		    .navbar-collapse{
+		        padding: 0px !important;
+		        width: auto !important;
+		    }
+	
+		    .col-xs-12{
+		        width: auto !important;
+		        float: none !important;
+		        padding-top: 10px;
+		    }
+	
+		    .row{
+		    	margin-right: 0px !important;
+		    }
+	
+		}
+	}
+
+	@media (max-width: 379px){
+	        
+	        #logo>img{
+	            height: 40px;   
+	            margin: -10px 0px 10px 10px;    
+	        }
+	
+	        #carrusel{
+	        	margin-top: 0px;
+	        }
+	
+	        #carrusel img{
+	            height: 210px !important;
+	            width: 100%;
+	            margin-left: 0px;
+	            /*width: 1140px;*/
+	        }
+	
+	        .menu{
+	        
+	            margin: 0px 0px 0px 0px;
+	            width: auto;
+	            text-align: center;
+	            height: 15px;
+	            z-index: 99999999999;
+	            border: none;
+	            background: #DBD500;
+	        }
+	
+	        #quienes_somos{
+	            width: 100%;
+	        }
+	
+	        #fotos_quienes_somos{
+	            display: none;
+	        }
+	
+	        #sec-quie-2{
+	            display: none;
+	        }
+	
+	        #sec-quie-1{
+	            height: 450px;
+	        }
+	
+	        #sec-quie-1>div{
+	            margin: 10px 30px 0px 20px !important;
+	            width: auto;
+	        }
+	
+			#sec-quie-1>div>p>b{
+	            font-size: 22pt !important;
+	        }
+			
+	        #titulo{
+	            width: 100% !important;
+	        }
+	
+	        #vermas{
+	            -webkit-border-radius: 60px;
+	            -moz-border-radius: 60px;
+	            border-radius: 60px;
+	            background-color:#848880; 
+	            color: #fff; 
+	            border:none; 
+	            height:40px;
+	            width:120px;
+	            margin-bottom: 30px;
+	        }
+	
+	        #corporal >img{
+	            margin-top: 0px !important;
+	            padding-top: 0px;
+	        }
+	
+	        .navbar-header{
+	            width: 100% !important;
+	        }
+	
+	        .container{
+	            padding-right: 0px !important;
+	            padding-left: 0px !important;
+	
+	        }
+	
+	        #footer{
+	            width: 100% !important;
+	        }
+	
+	        footer>div.row{
+	            margin-left:-30px;
+	        }
+	
+	        .menu{
+	        
+	            margin-top: 0px !important;
+	            padding: 0px;
+	            width: auto !important;
+	            text-align: center;
+	            height: 15px;
+	            z-index: 99999999999;
+	            border: none;
+	            background: #DBD500;
+	            background-image: #D15555;
+	        }
+	
+	        .relleno{
+	            display: none;
+	        }
+	
+	        .menu1{
+	        background-color: #D15555!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	
+	        .menu2{
+	        background-color: #E78E52!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	        .menu3{
+	        background-color: #848880!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	        .menu4{
+	        background-color: #DBD500!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	        .menu5{
+	        background-color: #87A19A!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+	        }
+	
+	        .navbar-default .navbar-nav>li>.menu1:hover{
+	        background-color: #D15555!important;
+	        color: #ffffff !important;
+	        font-size: 16px;
+	        font-weight: bolder;
+	        width: auto;
+	        height: 40px;
+	        text-align: center;
+	        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu2:hover{
+		        background-color: #E78E52!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu3:hover{
+		        background-color: #848880!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu4:hover{
+		        background-color: #DBD500!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+		    
+		    .navbar-default .navbar-nav>li>.menu5:hover{
+		        background-color: #87A19A!important;
+		        color: #ffffff !important;
+		        font-size: 16px;
+		        font-weight: bolder;
+		        width: auto;
+		        height: 40px;
+		        text-align: center;
+		        vertical-align: middle;
+		    }
+	
+		    .navbar-collapse{
+		        padding: 0px !important;
+		        width: auto !important;
+		    }
+	
+		    .col-xs-12{
+		        width: auto !important;
+		        float: none !important;
+		        padding-top: 10px;
+		    }
+	
+		    .row{
+		    	margin-right: 0px !important;
+		    }
+	
+		}
+
+
+	@media (min-width: 1280px){
+
+		.menu{
+        
+        margin: 0px;
+        width: auto;
+        text-align: center;
+        height: 15px;
+        z-index: 99999999999;
+        border: none;
+        background: #DBD500;
+        background-image: #D15555;
+    	}
+
+	}
